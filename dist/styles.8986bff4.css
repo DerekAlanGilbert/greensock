@@ -1,0 +1,34 @@
+
+body {
+  display: flex;
+  height: 50vh;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  overflow: hidden; 
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: lightcoral;
+  border: 1px solid black;
+  
+}
+
+
+.hover {
+  box-shadow: 0 1rem 1rem;
+}
+
+.down {
+  background-color: lightblue;
+}
+
+
+/* #box {
+  width: 25px;
+  height: 25px;
+  background-color: deepskyblue;
+} */
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */

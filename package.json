@@ -1,0 +1,15 @@
+{
+  "name": "greensock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^2.1.2",
+    "parcel": "^1.12.3"
+  }
+}
