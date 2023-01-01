@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "gsap": "^2.1.2",
-    "parcel": "^1.12.3"
+    "parcel": "^2.8.2"
   }
 }
